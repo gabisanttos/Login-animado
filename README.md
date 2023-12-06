@@ -1,5 +1,6 @@
 # Login-animado 
-Um simples login animado que inclui campos para email e senha, usando somente HTML e Css. 
+Um simples login animado que inclui campos para email e senha, usando somente HTML e CSS. 
 
- ![Captura de Tela (50)](https://github.com/gabisanttos/Login-animado/assets/143444383/21c68d67-0645-4c9b-8aed-a7eda81272b0)
+
+![Loginanimado](https://github.com/gabisanttos/Login-animado/assets/143444383/89b67cf6-137d-4782-8a4f-695781a3e8bf)
 
